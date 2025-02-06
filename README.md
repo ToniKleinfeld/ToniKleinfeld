@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Toni Kleinfeld from Germany.<br><br>- 🔭 I want working as a developer.<br>- 📚 I'm currently learning Angular.<br>- ⚡ I spend my free time with my family.<br><br>Since I wrote my first lines of code, it has completely captivated me and I have made it my goal to make it a permanent part of my life.</p>
+<p align="left">I'm Toni Kleinfeld from Germany.<br><br>- 🔭 I'm a junior developer.<br>- 📚 I'm currently working with Angular.<br>- ⚡ I spend my free time with my family or codeing in some projects.<br><br>Since I wrote my first lines of code, it has completely captivated me and I have made it my goal to make it a permanent part of my life.</p>
 
 
 

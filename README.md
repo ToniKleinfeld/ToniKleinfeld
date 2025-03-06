@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://media.licdn.com/dms/image/v2/D5616AQGhHS10PMJCeQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727895625874?e=1741219200&v=beta&t=EJNmW3zNgwGouIci0nD7CBEMW1VUosNq97zH2MKnvRQ"  />
+  <img height="250" src="https://github.com/ToniKleinfeld/ToniKleinfeld/blob/main/background.jpg?raw=true"  />
 </div>
 
 ##
